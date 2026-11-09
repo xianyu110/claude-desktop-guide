@@ -1,0 +1,5 @@
+title: "Claude桌面端从0到1保姆级教程"
+description: "从零安装 Claude Desktop，用 momoAI + CC Switch 配好国内中转，一步步手把手到能正常对话。"
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag
