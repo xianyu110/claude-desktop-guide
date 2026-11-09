@@ -5,11 +5,11 @@ description: "从零安装 Claude Desktop，用 momoAI + CC Switch 配好国内�
 
 # Claude桌面端从0到1保姆级教程
 
-> 基于 **2026-11-09** 在 **Mac mini** 上的真实安装与配置：升级 Claude Desktop、用 [momoAI](https://momoai.asia) + [CC Switch](https://ccswitch.asia/zh/) 接好国内中转，一步步手把手到能正常对话。完整 Key 只写本机配置，文中仅保留掩码。
+> 基于 **2026-11-09** 在 **Mac mini** 上的真实安装与配置：升级 Claude Desktop、用 [https://momoai.asia](https://momoai.asia) + [https://ccswitch.asia/zh/](https://ccswitch.asia/zh/) 接好国内中转，一步步手把手到能正常对话。完整 Key 只写本机配置，文中仅保留掩码。
 
 **Keywords:** Claude Desktop · CC Switch · momoAI · ClaudeMax · 国内中转 · macOS
 
-参考文档：[Claude Desktop 桌面端全流程指南](https://doc.momoai.asia/blog/claude-desktop-guide)
+参考文档：[https://doc.momoai.asia/blog/claude-desktop-guide](https://doc.momoai.asia/blog/claude-desktop-guide)
 
 ---
 
@@ -57,7 +57,7 @@ Claude Desktop 是 Anthropic 官方桌面端：本地文件、Projects、Artifac
 | --- | --- |
 | 电脑 | 本教程以 **Mac mini · macOS** 为例；Windows 差异会标出 |
 | 代理 | 能翻墙更好（本机 Clash `127.0.0.1:7897`；官方包下载经常需要） |
-| 账号 | [momoai.asia](https://momoai.asia) 已登录控制台 |
+| 账号 | [https://momoai.asia](https://momoai.asia) 已登录控制台 |
 | 时间 | 约 10–20 分钟；准备好「完全退出再打开 Claude」的耐心 |
 
 > **先别登录官方账号。** Claude 装好后先不要急着登 Anthropic 官方账号。先把中转配通，再开新对话测试，避免旧会话缓存干扰。
@@ -105,15 +105,11 @@ Claude Desktop ──读当前供应商──▶ CC Switch ──Base URL + Bear
 
 本机结果：Claude Desktop 版本 **`4.23118.0`**，界面已切中文。
 
-![Claude 欢迎页](https://upload.maynor1024.live/file/1794212683836_08-claude-welcome.png)
-
-![Claude 启动](https://upload.maynor1024.live/file/1794212688886_02-claude-launched.png)
-
 ---
 
 ## 第二步：安装 CC Switch
 
-CC Switch 用来管理 Claude Desktop 的中转供应商（**应用类型必须选 Claude Desktop**）。未装可从[文档站网盘](https://doc.momoai.asia/blog/claude-desktop-guide)或 GitHub Release 下 dmg。
+CC Switch 用来管理 Claude Desktop 的中转供应商（**应用类型必须选 Claude Desktop**）。未装可从[https://doc.momoai.asia/blog/claude-desktop-guide](https://doc.momoai.asia/blog/claude-desktop-guide)或 [https://github.com/xianyu110/cc-switch/releases](https://github.com/xianyu110/cc-switch/releases) 下 dmg。
 
 1. **下载并安装** —— 打开 CC Switch 的 `.dmg`，拖到应用程序。本机版本 **4.0.28**。  
 2. **打开应用** —— 确认能看到供应商列表 / 路由相关界面，暂时先别点启动。  
@@ -260,7 +256,7 @@ CC Switch 用来管理 Claude Desktop 的中转供应商（**应用类型必须�
 
 原因：Key 所属分组没有开放你选的模型。
 
-1. 登录 [momoai.asia](https://momoai.asia) 查该 Key 分组真实支持的模型 ID  
+1. 登录 [https://momoai.asia](https://momoai.asia) 查该 Key 分组真实支持的模型 ID  
 2. 回 CC Switch 改成列表内的模型并保存  
 3. 重新启动路由  
 4. 彻底退出并重启 Claude，新建对话再测  
