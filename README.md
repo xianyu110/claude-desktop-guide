@@ -139,7 +139,7 @@ CC Switch 用来管理 Claude Desktop 的中转供应商（**应用类型必须�
 
 ![创建 Key 对话框](https://upload.maynor1024.live/file/1794214663301_momoai-02-create-key.png)
 
-![Use Key 成功](https://upload.maynor1024.live/file/1794214670228_momoai-04-use-key.png)
+![Use Key 成功](https://upload.maynor1024.live/file/1794217099136_momoai-04-use-key-masked.png)
 
 ![Keys 列表最终页](https://upload.maynor1024.live/file/1794214668389_momoai-05-keys-final.png)
 
