@@ -29,7 +29,6 @@ description: "从零安装 Claude Desktop，用 momoAI + CC Switch 配好国内�
 - [常见报错怎么排](#常见报错怎么排)
 - [安全提醒](#安全提醒)
 - [发问前自查清单](#发问前自查清单)
-- [真实截图](#真实截图)
 
 ---
 
@@ -306,26 +305,6 @@ CC Switch 用来管理 Claude Desktop 的中转供应商（**应用类型必须�
 - [x] 短消息测试已收到回复  
 
 以上状态截至 **2026-11-09** 本机配置完成时；你改配置后以实际界面为准。
-
----
-
-## 真实截图
-
-同一次安装过程抓取（已传到自定义图床）：
-
-| 说明 | 链接 |
-| --- | --- |
-| API Keys 控制台 | https://upload.maynor1024.live/file/1794212669537_momoai-01-console.png |
-| 创建 Key 对话框 | https://upload.maynor1024.live/file/1794212667158_momoai-02-create-key.png |
-| Use Key 成功 | https://upload.maynor1024.live/file/1794212670122_momoai-04-use-key.png |
-| Keys 列表最终页 | https://upload.maynor1024.live/file/1794212679726_momoai-05-keys-final.png |
-| Claude 启动 | https://upload.maynor1024.live/file/1794212688886_02-claude-launched.png |
-| Claude 欢迎页 | https://upload.maynor1024.live/file/1794212683836_08-claude-welcome.png |
-| Claude Gateway | https://upload.maynor1024.live/file/1794212685056_10-Claude-2191.png |
-| CC Switch 窗口 | https://upload.maynor1024.live/file/1794212691318_06-cc-switch-window.png |
-| CC Switch 供应商 | https://upload.maynor1024.live/file/1794212689285_11-cc-switch.png |
-
-完整文字指南也可对照：[https://doc.momoai.asia/blog/claude-desktop-guide](https://doc.momoai.asia/blog/claude-desktop-guide)
 
 ---
 
