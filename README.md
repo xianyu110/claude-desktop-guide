@@ -135,13 +135,13 @@ CC Switch 用来管理 Claude Desktop 的中转供应商（**应用类型必须�
 | 分组 | ClaudeMax余额分组 · 1.4x |
 | 状态 | Active · 2026-11-09 创建 |
 
-![API Keys 控制台](https://upload.maynor1024.live/file/1794212669537_momoai-01-console.png)
+![API Keys 控制台](https://upload.maynor1024.live/file/1794214659538_momoai-01-console.png)
 
-![创建 Key 对话框](https://upload.maynor1024.live/file/1794212667158_momoai-02-create-key.png)
+![创建 Key 对话框](https://upload.maynor1024.live/file/1794214663301_momoai-02-create-key.png)
 
-![Use Key 成功](https://upload.maynor1024.live/file/1794212670122_momoai-04-use-key.png)
+![Use Key 成功](https://upload.maynor1024.live/file/1794214670228_momoai-04-use-key.png)
 
-![Keys 列表最终页](https://upload.maynor1024.live/file/1794212679726_momoai-05-keys-final.png)
+![Keys 列表最终页](https://upload.maynor1024.live/file/1794214668389_momoai-05-keys-final.png)
 
 ---
 
@@ -179,9 +179,9 @@ CC Switch 用来管理 Claude Desktop 的中转供应商（**应用类型必须�
 4. **发短消息测试**  
    例如：`请回复：连接测试成功。` 能马上收到回复就说明通了。
 
-本机界面已显示 **maynorai · Gateway**，模型侧为 Sonnet 5 High。
+本机界面已显示 `**** · Gateway`，模型侧为 Sonnet 5 High。
 
-![Claude Gateway](https://upload.maynor1024.live/file/1794212685056_10-Claude-2191.png)
+![Claude Gateway](https://upload.maynor1024.live/file/1794214672534_10-Claude-gateway.png)
 
 ---
 
@@ -240,7 +240,7 @@ CC Switch 用来管理 Claude Desktop 的中转供应商（**应用类型必须�
 | momo 登录 | 成功 | 已有会话 |
 | 创建 Key | 成功 | 2026-11-09 16:16:18 |
 | CC Switch 当前供应商 | momoAI Claude Desktop | `is_current=1` |
-| Claude UI | maynorai · Gateway | Sonnet 5 High |
+| Claude UI | `**** · Gateway` | Sonnet 5 High |
 | API `claude-sonnet-5` | HTTP 200 · OK | 经 Clash，建议 curl 加 `--http1.1` |
 
 ---
